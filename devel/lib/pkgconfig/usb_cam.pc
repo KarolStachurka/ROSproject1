@@ -1,0 +1,8 @@
+prefix=/home/august/rosproject1/devel
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.3.6
+Cflags: -I/home/august/rosproject1/src/usb_cam/include
+Libs: -L/home/august/rosproject1/devel/lib -lusb_cam
+Requires: 

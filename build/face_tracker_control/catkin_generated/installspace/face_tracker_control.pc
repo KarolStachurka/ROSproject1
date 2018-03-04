@@ -1,0 +1,8 @@
+prefix=/home/august/rosproject1/install
+
+Name: face_tracker_control
+Description: Description of face_tracker_control
+Version: 0.0.0
+Cflags: -I/home/august/rosproject1/install/include
+Libs: -L/home/august/rosproject1/install/lib 
+Requires: message_runtime roscpp rospy std_msgs
